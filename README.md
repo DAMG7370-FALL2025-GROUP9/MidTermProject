@@ -102,3 +102,8 @@ The Chicago and Dallas pipelines follow the same modeling strategy, allowing the
 
 
 
+👥 Team Members: 
+1) Rakshith Narayanswamy
+2) Radhika Joshi 
+3) Akshay Raj Chevala
+
